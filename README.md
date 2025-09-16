@@ -1,11 +1,11 @@
 # PythonProject
 
-Това хранилище съдържа всички мои упражнения и задачи от курсовете по **Python** през 2025 г.
+This repository contains all my exercises and tasks from the **Python** courses in 2025.
 
-## 📂 Структура на проекта
+## 📂 Project Structure
 
-| Ниво | Папка | Съдържание |
-|------|-------|------------|
+| Level | Folder | Contents |
+|-------|--------|----------|
 | 1 | [Basic2025](./Basic2025) | `Conditional_statements`, `Conditional_statements_advanced`, `FirstStepsInProgramming`, `For_Loops`, `Nested_Loops`, `while_loops` |
 | 2 | [FundamentalsWithPython](./FundamentalsWithPython) | `conditional_statements_and_loops`, `Data_Types_and_Variables`, `Dictionaries`, `Functions`, `Lists_Basics` |
 | 3 | [PythonAdvanced2025](./PythonAdvanced2025) | `Functions_Advanced`, `Lists_as_Stacks_and_Queues`, `More_Lists`, `Multidimensional_Lists`, `Tuples_and_Sets`, `Exam_Preparation`, `Exam_Advance` |
@@ -13,9 +13,9 @@
 
 ---
 
-## 🚀 Стартиране на задачите
-1. Отвори съответната папка.
-2. Всеки `.py` файл съдържа самостоятелно решение на задача.
-3. Стартиране:
+## 🚀 Running the tasks
+1. Open the corresponding folder.  
+2. Each `.py` file contains a standalone solution to a task.  
+3. Run with:  
    ```bash
-   python име_на_файл.py
+   python file_name.py
