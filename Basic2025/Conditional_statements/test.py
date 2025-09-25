@@ -1,3 +1,5 @@
-is_greater = 7 > 6
+a = 33
+b = 200
 
-print(type(is_greater))
+if b > a:
+    print("b is greater than a")
